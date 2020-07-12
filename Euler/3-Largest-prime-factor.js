@@ -1,4 +1,4 @@
-ofunction largestPrimeFactor(number) {
+function largestPrimeFactor(number) {
     let prime = 2,
       max = 1;
     while (prime <= number) {
